@@ -27,7 +27,10 @@
           <label for="exampleInputEmail1">Product description</label>
           <input type="text" class="form-control" id="product_qty" name="description" aria-describedby="emailHelp" >
         </div>
-
+        <div class="custom-file col-xs-6 col-sm-6 ">
+            <input type="file" class="custom-file-input" name="img_pro" id="customFile">
+            <label class="custom-file-label" for="customFile">Choose img</label>
+        </div>
 
 
 
